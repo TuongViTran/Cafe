@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: wheat;
+    margin: 20px;
+}
+
+.container {
+    width: 700px;
+    height: 300px;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+.container h1 {
+    background: rgb(153, 104, 57);
+    text-align: center;
+    color: #ffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+p {
+    color: #555;
+    font-weight: bold;
+}
+
+span {
+    color: #555;
+}
